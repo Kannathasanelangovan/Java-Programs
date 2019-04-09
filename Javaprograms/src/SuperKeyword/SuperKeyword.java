@@ -4,7 +4,7 @@ public class SuperKeyword {
 	
 	public SuperKeyword(){
 		
-		System.out.println("Parent Class Constructor");
+		System.out.println("Parent Class default Constructor");
 	}
 	
 	
