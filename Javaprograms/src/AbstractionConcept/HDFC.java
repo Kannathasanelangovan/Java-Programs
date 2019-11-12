@@ -5,7 +5,7 @@ public class HDFC extends Bank{
 	@Override
 	public void credit() {
 		
-		System.out.println("Credit");
+		System.out.println("Credit for HDFC");
 		
 	}
 	

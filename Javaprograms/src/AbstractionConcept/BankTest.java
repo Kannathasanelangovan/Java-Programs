@@ -9,7 +9,7 @@ public class BankTest {
 		hb.credit();
 		hb.debit();
 		hb.loan();
-		hb.funds();
+		hb.funds(); //new comment
 		
 		Bank b = new HDFC();
 		
